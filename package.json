@@ -1,0 +1,16 @@
+{
+  "name": "marvin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "marvin.js",
+  "scripts": {
+    "start": "node marvin.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.2.2",
+    "botkit-storage-redis": "^1.0.1",
+    "redis": "^2.6.2"
+  }
+}
