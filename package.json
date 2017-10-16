@@ -1,0 +1,16 @@
+{
+  "name": "marvin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kaismora/marvin.git",
+  "author": "Isac Lagerblad <isac.lagerblad@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "dotenv": "^4.0.0",
+    "moment": "^2.19.1",
+    "mongodb": "^2.2.33",
+    "request": "^2.83.0",
+    "slack-notify": "^0.1.6"
+  }
+}
